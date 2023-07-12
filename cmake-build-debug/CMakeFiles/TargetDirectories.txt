@@ -1,0 +1,3 @@
+C:/Users/deanb/OneDrive/Desktop/MyProjects/cprogrammadlibs/cmake-build-debug/CMakeFiles/cprogrammadlibs.dir
+C:/Users/deanb/OneDrive/Desktop/MyProjects/cprogrammadlibs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/deanb/OneDrive/Desktop/MyProjects/cprogrammadlibs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
