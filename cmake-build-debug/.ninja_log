@@ -1,3 +1,7 @@
 # ninja log v5
 0	105	7108509198872814	CMakeFiles/cprogrammadlibs.dir/main.c.obj	fbcd81fb954b782c
 108	243	7108509200247970	cprogrammadlibs.exe	253331167390718
+2	137	7108517244584325	CMakeFiles/cprogrammadlibs.dir/main.c.obj	fbcd81fb954b782c
+137	295	7108517246149433	cprogrammadlibs.exe	253331167390718
+2	127	7108519708754761	CMakeFiles/cprogrammadlibs.dir/main.c.obj	fbcd81fb954b782c
+127	282	7108519710296939	cprogrammadlibs.exe	253331167390718
